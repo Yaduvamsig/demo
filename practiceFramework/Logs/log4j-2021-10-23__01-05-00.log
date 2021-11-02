@@ -1,0 +1,5 @@
+2021-10-23 13:05:02,420  INFO [main] WebDriverHelper1:22 -  driver intialized
+ 2021-10-23 13:05:06,023  INFO [main] WebDriverHelper1:25 - navigation to url
+ 2021-10-23 13:05:09,180  INFO [main] WebDriverHelper1:24 -  driver intialized
+ 2021-10-23 13:05:12,891  INFO [main] WebDriverHelper1:27 - navigation to url
+ 
